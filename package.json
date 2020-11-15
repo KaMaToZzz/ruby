@@ -1,0 +1,10 @@
+{
+    "name": "license-example",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "UNLICENSED",
+    "scripts": {
+        "build": "node build-some-project.js",
+        "test": "jest"
+  }
+}
